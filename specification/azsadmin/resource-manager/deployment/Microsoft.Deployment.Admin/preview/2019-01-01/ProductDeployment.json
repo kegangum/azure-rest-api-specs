@@ -114,7 +114,7 @@
             "$ref": "Deployment.json#/parameters/ProductIdParameter"
           },
           {
-            "$ref": "ProductDeployment.json#/parameters/BootstrapActionParameter"
+            "$ref": "#/parameters/BootstrapActionParameter"
           },
           {
             "$ref": "Deployment.json#/parameters/ApiVersionParameter"
